@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{13B021E1-B306-E93F-7D80-6AB0CE481DA8}|">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Dice/Plugins/Dice.cs">
+    <Files>
+      <File FileName="Assets/Dice/Scripts/Dice/Die_d10.cs" Line="1" Column="1" IsPinned="True" />
+      <File FileName="Assets/script/DiceControl.cs" Line="19" Column="1" />
+      <File FileName="Assets/Dice/Plugins/Dice.cs" Line="20" Column="14" />
+      <File FileName="Assets/Dice/Plugins/Die.cs" Line="1" Column="1" />
+      <File FileName="Assets/Dice/Scripts/Dice/Die_d6.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="diceRoll" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Dice" expanded="True">
+                <Node name="Plugins" expanded="True">
+                  <Node name="Dice.cs" selected="True" />
+                </Node>
+                <Node name="Scripts" expanded="True">
+                  <Node name="Dice" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="script" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="1a75edad-80bf-4b84-b0e7-1b3ce298c755" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+</Properties>

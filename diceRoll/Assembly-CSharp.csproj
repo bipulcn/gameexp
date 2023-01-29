@@ -56,12 +56,13 @@
     <Analyzer Include="/Applications/Visual Studio.app/Contents/MonoBundle/Addins/MonoDevelop.Unity/Analyzers/Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets/Dice/scenes/Demo/AppDemo.cs" />
-    <Compile Include="Assets/Dice/Scripts/Dice/Die_d6.cs" />
-    <Compile Include="Assets/Dice/Plugins/Dice.cs" />
     <Compile Include="Assets/Dice/Scripts/Dice/Die_d10.cs" />
+    <Compile Include="Assets/Dice/scenes/Demo/AppDemo.cs" />
     <Compile Include="Assets/Dice/Plugins/Die.cs" />
     <Compile Include="Assets/script/DiceControl.cs" />
+    <Compile Include="Assets/Dice/Scripts/Dice/Die_d6.cs" />
+    <Compile Include="Assets/Dice/Plugins/Dice.cs" />
+    <Compile Include="Assets/script/RayDice.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets/Dice/-Read-Me-.txt" />

@@ -354,6 +354,7 @@
 "Assets/Dice/Scripts/Dice/Die_d10.cs"
 "Assets/Dice/Scripts/Dice/Die_d6.cs"
 "Assets/script/DiceControl.cs"
+"Assets/script/RayDice.cs"
 -langversion:9.0
 
 /deterministic
