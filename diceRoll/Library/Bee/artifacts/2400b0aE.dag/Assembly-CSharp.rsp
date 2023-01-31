@@ -356,6 +356,8 @@
 "Assets/one/Dice/scenes/Demo/AppDemo.cs"
 "Assets/one/script/DiceControl.cs"
 "Assets/one/script/RayDice.cs"
+"Assets/three/Blink/Art/Animals/Stylized/Demo_Animals/DemoData/AnimationDemo.cs"
+"Assets/three/script/MoveMe.cs"
 "Assets/two/script/ControlObject.cs"
 "Assets/two/script/FollowObject.cs"
 -langversion:9.0
